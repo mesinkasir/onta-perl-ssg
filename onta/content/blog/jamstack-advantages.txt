@@ -1,0 +1,9 @@
+---
+title: Why Choose JAMSTACK?
+description: Understanding the benefits of using JAMSTACK architecture for maximum website security and performance in the modern era.
+image: /assets/img/axcoralogowhite.webp
+date: 2026-02-10
+category: Architecture
+tags: JAMSTACK, Performance, Security
+---
+Security is a priority. By decoupling the frontend and backend, JAMSTACK minimizes attack surfaces while providing instant load times for users globally.

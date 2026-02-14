@@ -1,0 +1,57 @@
+{
+  "site_info": {
+    "title": "ONTA SSG | High-Performance Perl Static Engine",
+    "description": "The ultimate starter kit for building blazing fast, database-free websites. Engineered with Perl for surgical precision and lightning-speed deployment.",
+    "image": "/assets/img/PERL-AXCORA-SSG.webp",
+    "favicon": "/assets/img/axcoralogowhite.webp",
+    "url": "https://axcora.my.id/onta"
+  },
+  "metasocial": {
+    "facebook": "https://axcora.my.id/onta",
+    "twitter": "https://axcora.my.id/onta",
+    "twitteruser": "https://axcora.my.id/onta"
+  },
+  "navbar": {
+    "title": "ONTA STARTER",
+    "list": [
+      { "nav": "Showcase", "url": "index.html" },
+      { "nav": "The Concept", "url": "about.html" },
+      { "nav": "Documentation", "url": "https://onta.axcora.com/docs/" },
+      { "nav": "Services Demo", "url": "services" },
+      { "nav": "Articles", "url": "blog" }
+    ],
+    "button": {
+      "text": "Get Source Code",
+      "url": "https://github.com/mesinkasir/onta"
+    }
+  },
+  "collections": {
+    "blog": { "per_page": 6, "url": "/blog" },
+    "docs": { "per_page": 8, "url": "/docs" },
+    "services": { "per_page": 6, "url": "/services" }
+  },
+  "footer": {
+    "logo": "/assets/img/axcoralogored.webp",
+    "title": "ONTA Open Source Project",
+    "text": "An Optimized Network Template Architecture powered by Axcora Zetta Core. Built for developers who demand speed and zero-dependency environments.",
+    "menu1": {
+      "title": "Resources",
+      "list": [
+        { "nav": "Starter Guide", "url": "docs/index.html" },
+        { "nav": "Layouting", "url": "docs/local.html" },
+        { "nav": "Deployment", "url": "docs/github.html" },
+        { "nav": "Style Guide", "url": "https://onta.axcora.com/style.html" }
+      ]
+    },
+    "menu2": {
+      "title": "Community",
+      "list": [
+        { "nav": "Github", "url": "https://github.com/sponsors/mesinkasir" },
+        { "nav": "Paypal", "url": "https://paypal.me/creativitas/" },
+        { "nav": "Coffee", "url": "https://creativitaz.gumroad.com/coffee" },
+        { "nav": "Official", "url": "https://www.axcora.com" }
+      ]
+    },
+    "copyrights": "Released under MIT License - Axcora Zetta Core"
+  }
+}

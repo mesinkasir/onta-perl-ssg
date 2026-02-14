@@ -1,0 +1,9 @@
+---
+title: SEO Strategies for Static Websites
+description: Tips and tricks to optimize ONTA SSG websites to rank higher on search engines through organic performance.
+image: /assets/img/axcoralogowhite.webp
+date: 2026-02-05
+category: Marketing
+tags: SEO, SSG, Marketing
+---
+Static websites have a natural advantage in Google's eyes due to their speed. However, proper metadata structure remains the ultimate key to visibility.

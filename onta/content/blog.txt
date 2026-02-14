@@ -1,0 +1,5 @@
+---
+title: Journal & News
+description: The latest articles on web development, technology, and automation.
+layout: collections-list
+---

@@ -1,0 +1,9 @@
+---
+title: Automation with Axcora Zetta Core
+description: How Axcora Zetta Core's robotic and automation concepts simplify database management and API integration.
+image: /assets/img/axcoralogowhite.webp
+date: 2026-02-08
+category: Updates
+tags: Automation, AI, Axcora Zetta Core
+---
+Axcora Zetta Core is more than a brand; it is a design scheme for customer-centric automation, integrating future technologies into seamless web architectures.

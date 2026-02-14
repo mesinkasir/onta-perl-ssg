@@ -1,0 +1,9 @@
+---
+title: JAMSTACK Web Development
+description: Modern web architecture services focusing on efficiency, speed, and high-level security using static technologies.
+image: /assets/img/axcoralogowhite.webp
+date: 2026-02-14
+category: Web Design
+tags: JAMSTACK, Static, High Performance
+---
+We build web infrastructures that are not only visually stunning but also achieve perfect performance scores on Google PageSpeed Insights.

@@ -1,0 +1,15 @@
+---
+title: Behind the Architecture
+description: Learn about the Axcora Zetta Core concept and the engineering of ONTA SSG.
+layout: page
+---
+### Efficiency and Speed
+ONTA is built on the **Axcora Zetta Core** brand—a design philosophy that acts as a web and application architect focusing on efficiency. We support technologies ranging from JAMSTACK to deep AI integration.
+
+### Robotic Automation
+At its heart, ONTA is more than code; it is a robotic design scheme. We automate the customer experience by bridging the gap between:
+* **Database Integration:** High-speed data parsing without the overhead.
+* **API Development:** Seamless connectivity for modern apps.
+* **AI Dev:** Intelligent content injection for next-generation web platforms.
+
+Visit our lab at [www.axcora.my.id](http://www.axcora.my.id) to see our latest innovations in automation and robotics.
