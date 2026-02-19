@@ -35,7 +35,7 @@ DOCUMENTATION OFFICIAL SITE: [https://onta.axcora.com/](https://onta.axcora.com/
 ├── layout/             # HTML Templates & Partials
 ├── config.json         # Global configuration & Site info
 ├── onta.pl             # The Engine - Run this to generate your site
-└── README.md           # Readme Files
+└── README.md           # Readme File
 ```
 
 ## 🛠 Getting Started
