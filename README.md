@@ -97,6 +97,14 @@ Since it generates pure static HTML, you can host the output anywhere—from Git
 
 ---
 
+## 🙌 Support This Project
+
+- [Donate via Paypal](https://www.paypal.com/paypalme/creativitas)  
+- [Sponsor on Github](https://github.com/sponsors/mesinkasir)
+- [Coffee/Gumroad](https://creativitaz.gumroad.com/coffee)
+
+---
+
 Crafted by Axcora Zetta Core
 Architecting Web Efficiency and Speed.
 Official Web: www.axcora.com | Lab: www.axcora.my.id
