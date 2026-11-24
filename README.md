@@ -2,6 +2,10 @@
 
 ### PERL Static Site Generator by Axcora Zetta Core
 
+Explore all projects: https://www.hockeycomputindo.com
+
+Labs R&D: https://www.axcora.com
+
 **ONTA PERL SSG** is a high-performance static site architecture driven by Perl. 
 
 Engineered for web architects who prioritize speed, efficiency, and security. 
